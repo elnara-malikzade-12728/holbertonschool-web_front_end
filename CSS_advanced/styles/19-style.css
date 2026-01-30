@@ -168,7 +168,7 @@ font-family: var(--font-family-title);
 font-weight: var(--font-weight-bold);
 }
 
-.row *ul {
+ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -197,6 +197,6 @@ font-weight: var(--font-weight-bold);
 
 }
 
-.footer *ul {
+ul.footer {
     text-align: right;
 }
