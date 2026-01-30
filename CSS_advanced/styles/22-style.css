@@ -57,6 +57,7 @@ html {
 [data-section-theme="dark"]{
     background-color: var(--color-black);
     --section-title-color: var(--color-white);
+    --text-color: var(--color-white);
 }  
 
 body {
