@@ -75,7 +75,7 @@ html {
     --button-color: var(--color-white);
 }  
 
-header {
+.header {
     padding: var(--header-padding);
 }
 
