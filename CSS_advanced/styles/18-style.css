@@ -83,7 +83,7 @@ a:active {
     padding: 0;
     list-style: none;
     text-align: center;
-
+}
 
 .nav-item {
     font-family: nav-item-font-family;
@@ -102,7 +102,7 @@ a:active {
 .nav-link:hover {
     color: nav-item-link-hover;
 }
-}
+
 
 .visually-hidden {
     display: none;
