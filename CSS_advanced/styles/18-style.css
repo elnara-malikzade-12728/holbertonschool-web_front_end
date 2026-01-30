@@ -85,7 +85,7 @@ a:active {
     text-align: center;
 }
 
-.nav-item {
+.nav.nav-item {
     font-family: nav-item-font-family;
     font-weight: nav-item-font-weight;
     font-size: nav-item-font-size;
@@ -94,7 +94,7 @@ a:active {
     margin: nav-item-margin;
 }
 
-.nav-link {
+.nav.nav-link {
     display: block;
     padding: 0.5rem, 1rem;
 }
