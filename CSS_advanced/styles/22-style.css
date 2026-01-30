@@ -13,7 +13,7 @@ html {
     font-size: 62.5%;
 }
 :root {
-    --backgound: var(--color-black);
+   
     --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
@@ -52,6 +52,10 @@ html {
     --section-tagline-margin: 0;
 
 
+}
+
+[data-section-theme="dark"]{
+    background-color: var(--color-black);
 }
 
 body {
