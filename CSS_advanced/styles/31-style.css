@@ -205,10 +205,13 @@ a:active {
 }
 
 .card-testimonial .card-quote cite {
-    position: relative;
     display: block;
     padding-top: 1rem;
     color: var(--color-primary);
+}
+
+.card-testimonial .card-quote {
+    position: relative;
 }
 
 .card-work .card-quote::before {
